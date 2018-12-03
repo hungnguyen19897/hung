@@ -1,3 +1,3 @@
 <?php
-echo "Khang ngu lol";
+echo "Hung dep trai";
 ?>
