@@ -1,3 +1,3 @@
 <?php
-echo "Hung dep trai";
+echo "capcone project 2 bluetooth low energy ";
 ?>
